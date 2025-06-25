@@ -22,9 +22,10 @@ Um dashboard interativo em Excel 365 (PT-BR) que consolida dados de assinaturas,
 7. [Slicers & Timeline](#-slicers--timeline)  
 8. [KPI Cards (Top 4 Big Numbers)](#-kpi-cards-top-4-big-numbers)  
 9. [Gráficos Principais](#-gráficos-principais)  
-10. [Identidade Visual](#-identidade-visual)  
-11. [Contribuições](#-contribuições)  
-12. [Licença](#-licença)  
+10. [Identidade Visual](#-identidade-visual)
+11. [Download](#download)
+12. [Contribuições](#-contribuições)  
+13. [Licença](#-licença)  
 
 ---
 
@@ -131,6 +132,13 @@ Cada card é uma forma vinculada a uma célula de apoio com `GETPIVOTDATA` (no E
   - MenuSecondary: `#505050`  
   - Fundo geral: `#FFFFFF`; painéis de slicer: `#E6E6E6`  
 - **Layout**: 8 colunas horizontais no topo, espaçamento de 20 px entre objetos.
+
+---
+
+## Download
+
+Baixe a planilha em:  
+[desafio_dio_dashboard_ver001_jun-25.xlsx](desafio_dio_dashboard_ver001_jun-25.xlsx)
 
 ---
 
