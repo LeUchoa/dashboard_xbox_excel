@@ -7,6 +7,10 @@ Um dashboard interativo em Excel 365 (PT-BR) que consolida dados de assinaturas,
 
 ---
 
+![Visão Geral do Xbox Game Pass Dashboard](Image/screen.png)
+
+---
+
 ## Sumário
 
 1. [Visão Geral](#-visão-geral)  
