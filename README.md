@@ -1,6 +1,26 @@
 # Xbox Game Pass Dashboard
 
+![MIT License](https://img.shields.io/badge/license-MIT-blue)  
+![Excel 365 Compatible](https://img.shields.io/badge/Excel-365%20Compatible-green)  
+
 Um dashboard interativo em Excel 365 (PT-BR) que consolida dados de assinaturas, receitas e use-cases de add-ons, com KPIs, gráficos e slicers alinhados à identidade Xbox.
+
+---
+
+## Sumário
+
+1. [Visão Geral](#-visão-geral)  
+2. [Estrutura de Pastas](#-estrutura-de-pastas)  
+3. [Pré-requisitos](#-pré-requisitos)  
+4. [Instalação e Setup](#-instalação-e-setup)  
+5. [Tabela de Suporte (Aba “Cálculos”)](#-tabela-de-suporte-aba-cálculos)  
+6. [PivotTables](#-pivottables)  
+7. [Slicers & Timeline](#-slicers--timeline)  
+8. [KPI Cards (Top 4 Big Numbers)](#-kpi-cards-top-4-big-numbers)  
+9. [Gráficos Principais](#-gráficos-principais)  
+10. [Identidade Visual](#-identidade-visual)  
+11. [Contribuições](#-contribuições)  
+12. [Licença](#-licença)  
 
 ---
 
